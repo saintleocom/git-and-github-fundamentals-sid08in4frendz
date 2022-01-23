@@ -8,5 +8,5 @@
 < i like reading manga
 + Creating a list  `+`, `-`, or `*`
 +  Sub-lists are indentified by 2 spaces:
-![This is an image](https://www.pinterest.com/pin/854276623059110047/)
+![This is an image](https://www.medicalnewstoday.com/articles/322868)
 ![GitHub Light](https://github.com/github-light.png#gh-dark-mode-only)
